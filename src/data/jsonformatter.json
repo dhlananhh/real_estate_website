@@ -1,0 +1,209 @@
+{
+  "buildings": [
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949710"
+      },
+      "address": "Đường Dương Đình Nghệ, Phường Phước Mỹ, Sơn Trà, Đà Nẵng.",
+      "area": "22 m2 - 50 m2 - 63 m2 - 135 m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  2,25 tỷ",
+      "title": "À La Carte Hotel"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949711"
+      },
+      "address": "Nguyễn Khuyến, Phường Văn Quán, quận Hà Đông, Hà Nội",
+      "area": "69m2 – 73m2 – 88m2 – 89m2 – 90m2 – 95m2 -111m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "N/A",
+      "title": "Ariyana Lakeside Văn Quán (Hesco Văn Quán)"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949712"
+      },
+      "address": "Đường Bến Nghé, phường Tân Thuận Đông, quận 7, thành phố Hồ Chí Minh",
+      "area": "45;90",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "N/A",
+      "title": "Asiana Riverside (Shizen Home)"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949713"
+      },
+      "address": "Mặt tiền Quốc lộ 13, TP Thuận An, Tỉnh Bình Dương",
+      "area": "45;90",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  295 triệu",
+      "title": "Astral City"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949714"
+      },
+      "address": "Phường Vinh Tân, Thành phố Vinh, Nghệ An",
+      "area": "Không có thông tin",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  3,3 - 3,7 tỷ",
+      "title": "Athena Monopoly"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949715"
+      },
+      "address": "Đường Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, Hồ Chí Minh",
+      "area": "50m2 – 90 m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  1,7 tỷ",
+      "title": "Chung cư Huỳnh Tấn Phát"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cc9cdffb9996949716"
+      },
+      "address": "xã Tân Mỹ, huyện Đức Hòa, tỉnh Long An.",
+      "area": "Không có thông tin",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  2,95 - 6,6 tỷ",
+      "title": "Green Center (Làng sinh thái golf)"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb9996949717"
+      },
+      "address": "Hà Huy Giáp, Phường Thạnh Xuân, Quận 12, TP.Hồ Chí Minh",
+      "area": "250m2 - 280m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  6 tỷ",
+      "title": "Khu dân cư Bảo Thịnh Residence"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb9996949718"
+      },
+      "address": "Xã Đông Xá, đặc khu kinh tế Vân Đồn, Quảng Ninh",
+      "area": "87;120;140;200;300;500",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  2 tỷ",
+      "title": "Khu đô thị Phương Đông Vân Đồn"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb9996949719"
+      },
+      "address": "Lô N03T6 Khu Ngoại Giao Đoàn, P.Xuân Tảo, Q.Bắc Từ Liêm, TP Hà Nội",
+      "area": "Không có thông tin",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  3,8 tỷ",
+      "title": "N03-T6 - Khu đô thị Ngoại Giao Đoàn"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971a"
+      },
+      "address": "Đường Bùi Hữu Nghĩa, Phường Bình Hòa, Thuận An, Bình Dương.",
+      "area": "43m2-52m2 -59m2 -65m2 -68m2 -83 m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  1 tỷ",
+      "title": "Park View Apartment"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971b"
+      },
+      "address": "Đường Nguyễn Du Thành phố Thuận An, Tỉnh Bình Dương",
+      "area": "Không có thông tin",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "N/A",
+      "title": "Parkview Iris Tower"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971c"
+      },
+      "address": "Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+      "area": "54-55-66m2\n78-87-90-94m2\n106-109-133-145m2\n144-171-172-173-186-192-249-258-269-407-420-431m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  4,9 - 22 tỷ",
+      "title": "The Landmark 81 - Khu đô thị Vinhomes Central Park"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971d"
+      },
+      "address": "628C Xa lộ Hà Nội, phường An Phú, quận 2, TP Thủ Đức, TP HCM",
+      "area": "101m2 - 221 m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  4,3 tỷ",
+      "title": "The Vista An Phú"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971e"
+      },
+      "address": "Số 101 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội",
+      "area": "76;79;82;83;116;125",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  2,3 - 4,6 tỷ",
+      "title": "101 Láng Hạ"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb999694971f"
+      },
+      "address": "Số 108 Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",
+      "area": "87;87,3;88,3;91;97,85;108",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  11,2 tỷ",
+      "title": "108 Nguyễn Trãi"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb9996949720"
+      },
+      "address": "Số 113 Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+      "area": "94;109;110;128;150",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  3 - 3,5 tỷ",
+      "title": "113 Trung Kính"
+    },
+    {
+      "_id": {
+        "$oid": "67d045cd9cdffb9996949721"
+      },
+      "address": "Đường Phan Văn Hớn, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh",
+      "area": "55;73;84;92",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  950 triệu - 1,6 tỷ",
+      "title": "12 View"
+    },
+    {
+      "_id": {
+        "$oid": "67d046ec09b49b4c80fcf0b4"
+      },
+      "address": "Đường Dương Đình Nghệ, Phường Phước Mỹ, Sơn Trà, Đà Nẵng.",
+      "area": "22 m2 - 50 m2 - 63 m2 - 135 m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "  2,25 tỷ",
+      "title": "À La Carte Hotel"
+    },
+    {
+      "_id": {
+        "$oid": "67d046ec09b49b4c80fcf0b5"
+      },
+      "address": "Nguyễn Khuyến, Phường Văn Quán, quận Hà Đông, Hà Nội",
+      "area": "69m2 – 73m2 – 88m2 – 89m2 – 90m2 – 95m2 -111m2",
+      "image_url": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg",
+      "price": "N/A",
+      "title": "Ariyana Lakeside Văn Quán (Hesco Văn Quán)"
+    }
+  ],
+  "count": 36,
+  "page": 1,
+  "per_page": 20,
+  "success": true,
+  "total_pages": 2
+}
